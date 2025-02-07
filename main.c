@@ -161,7 +161,7 @@ void AsciiToMorse(const char ascii) {
 			Dot();Dash();Dash();Dash();Dash();
 			break;
 		case '2':
-			Dot();Dot();Dash;Dash();Dash();
+			Dot();Dot();Dash();Dash();Dash();
 			break;
 		case '3':
 			Dot();Dot();Dot();Dash();Dash();
