@@ -187,5 +187,10 @@ void AsciiToMorse(const char ascii) {
 		case '0':
 			Dash();Dash();Dash();Dash();Dash();
 			break;
+		case ' ':
+			Space();
+			break;
+		default:
+			break;
 	}
 }
